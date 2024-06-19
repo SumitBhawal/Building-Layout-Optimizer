@@ -32,11 +32,13 @@ Before you begin, ensure you have met the following requirements:
    cd building-layout-optimizer
 
 2. **Install dependencies:**
+   ```bash
     - npm install
 
-3. **Start the application:**
+4. **Start the application:**
+   ```bash
     - npm start
-        {This will run the app in development mode. Open http://localhost:3000 to view it in the browser.}
+This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 ## Usage
 
