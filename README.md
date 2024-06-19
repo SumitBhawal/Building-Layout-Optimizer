@@ -1,3 +1,7 @@
+### OUTPUT 
+![(OUTPUT)Building-Layout-Optimizer](https://github.com/swarup-cloud/Building-Layout-Optimizer/assets/56894217/7a739dff-e3a2-4077-9cbb-b744bc48b081)
+
+
 # Building Layout Optimizer
 
 This project is designed to visualize and optimize the layout of buildings using React. It displays an interactive layout of a building with designated areas for rooms, hallways, and a staircase, and calculates potential rental income based on the area of the rooms.
@@ -13,10 +17,10 @@ This project is designed to visualize and optimize the layout of buildings using
 This project is built using React and JavaScript, leveraging the following technologies:
 
 - **React**: A JavaScript library for building user interfaces, which allows for the creation of reusable UI components.
-- **JavaScript (ES6+)**: The programming language used to implement application logic and React component behavior.
+- **JavaScript (ES6+)**: The programming language used to implement application logic and React component behaviour.
 - **SVG**: Scalable Vector Graphics used to render the layout designs dynamically based on the input data.
 
-These technologies provide the flexibility and efficiency required for developing interactive and dynamic web applications. React's component-based architecture is particularly well-suited for this project, allowing for clear separation of concerns and easier management of the layout's state.
+These technologies provide the flexibility and efficiency required for developing interactive and dynamic web applications. React's component-based architecture is particularly well-suited for this project, allowing for a clear separation of concerns and easier management of the layout's state.
 
 
 ## Prerequisites
@@ -60,7 +64,7 @@ This formula is used to determine the viability of the building layout in terms 
 
 ## Conclusion and Acknowledgments
 
-- Developing the Building Layout Optimizer has been both challenging and rewarding. One of the primary challenges was accurately calculating and dynamically rendering the complex layout of the rooms, hallway, and staircase within the defined polygon. Managing state and props across multiple components to ensure that the UI is responsive and accurate required careful planning and execution.
+- Developing the Building Layout Optimizer has been both challenging and rewarding. One of the primary challenges was accurately calculating and dynamically rendering the complex layout of the rooms, hallway, and staircase within the defined polygon. Managing state and props across multiple components to ensure that the UI is responsive and accurate requires careful planning and execution.
 
 - Another challenge was implementing the formula for calculating rental income in a way that reflects real-time changes in the layout. This involved integrating mathematical logic with React state management, ensuring that updates to the layout would immediately reflect in the calculated income.
 
